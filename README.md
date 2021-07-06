@@ -25,7 +25,11 @@ A página de um post mostrará o mesmo card de post da página de feed, com o us
 👉 Status: Concluído ✅👏
 </h4>
 <hr />
+
+
 ### ✨ Funcionamento:
+
+
 - [x] Rotas
 - [x] Página de cadastro
 - [x] Página de feed
