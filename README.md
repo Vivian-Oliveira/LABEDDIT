@@ -5,6 +5,8 @@
 </h4>
 
 ### Esse projeto é inspirado no Reddit. Trata-se de uma mini rede social, com tela de cadastro, login, posts e comentários.
+<br>
+<hr />
 
 ### Página de login:  
 
