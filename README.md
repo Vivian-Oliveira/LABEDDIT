@@ -1,5 +1,10 @@
-#  📌 PROJETO LabbEddit
-#### Esse projeto é inspirado no Reddit. Trata-se de uma mini rede social, com tela de cadastro, login, posts e comentários.
+#  📌 PROJETO LABBEDDIT
+<br>
+<h4 align='center'>
+👉 Status: Concluído ✅👏
+</h4>
+
+### Esse projeto é inspirado no Reddit. Trata-se de uma mini rede social, com tela de cadastro, login, posts e comentários.
 
 ### Página de login:  
 
@@ -17,13 +22,13 @@ Essa página só pode ser acessada por um usuário logado. Caso o usuário não 
 ### Página de post:
 A página de um post mostrará o mesmo card de post da página de feed, com o usuário, texto e número de comentários. Essa página só pode ser acessada por um usuário logado. Caso o usuário não esteja logado, deverá ser redirecionado para a página de login. Terá um formulário para criação de comentários e os cards de comentários.
 
+<hr />
+
 ### Documentação da API:
 
 (https://documenter.getpostman.com/view/7549981/SW7T9XRj) 
 
-<h4 align='center'>
-👉 Status: Concluído ✅👏
-</h4>
+
 <hr />
 
 
