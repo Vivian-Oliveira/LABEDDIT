@@ -1,4 +1,4 @@
-#  📌 PROJETO LABBEDDIT
+#  📌 PROJETO LABEDDIT
 <br>
 <h4 align='center'>
 👉 Status: Concluído ✅👏
