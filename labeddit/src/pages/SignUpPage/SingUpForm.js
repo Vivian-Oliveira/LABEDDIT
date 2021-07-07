@@ -54,8 +54,12 @@ export function SingUpForm({ setRightButtonText }) {
             variant={"outlined"}
             type={"password"}
             fullWidth
-            required
+            pattern={"^.{8,}"}
+            required 
+            title={"A senha deve ter no mínimo 8 caracteres"}
             margin={"normal"}
+            
+
           />
         </InputsContainer>
         <Button

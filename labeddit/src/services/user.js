@@ -11,7 +11,7 @@ export const login = (
 ) => {
   setIsLoading(true);
   axios
-    .post(`${BASE_URL}/login`, body)
+    .post(`${BASE_URL}users/login`, body)
     .then((res) => {
       localStorage.setItem("token", res.data.token);
       clear();
@@ -35,7 +35,7 @@ export const signUp = (
 ) => {
   setIsLoading(true);
   axios
-    .post(`${BASE_URL}/signup`, body)
+    .post(`${BASE_URL}users/signup`, body)
     .then((res) => {
       localStorage.setItem("token", res.data.token);
       clear();
